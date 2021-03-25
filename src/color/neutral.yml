@@ -1,0 +1,38 @@
+---
+global:
+  type: color
+  category: category-color
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: color-neutral-darkest
+    value: '{!color-neutral-darkest}'
+    meta:
+      friendlyName: Color Neutral Darkest
+    category: background-color
+
+  - name: color-neutral-dark
+    value: '{!color-neutral-dark}'
+    meta:
+      friendlyName: Color Neutral Dark
+    category: background-color
+
+  - name: color-neutral-medium
+    value: '{!color-neutral-medium}'
+    meta:
+      friendlyName: Color Neutral Medium
+    category: background-color
+
+  - name: color-neutral-light
+    value: '{!color-neutral-light}'
+    meta:
+      friendlyName: Color Neutral Light
+    category: background-color
+
+  - name: color-neutral-lightest
+    value: '{!color-neutral-lightest}'
+    meta:
+      friendlyName: Color Neutral Lightest
+    category: background-color
