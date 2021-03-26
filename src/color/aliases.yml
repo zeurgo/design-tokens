@@ -1,23 +1,23 @@
 ---
-global: 
+global:
   type: aliases
   category: pallete-color
 
-aliases: 
-  color-brand-primary-darkest: '#002D7A'
-  color-brand-primary-dark: '#0247BE'
-  color-brand-primary-medium: '#005DFF'
-  color-brand-primary-light: '#3881FF'
-  color-brand-primary-lightest: '#77A9FF'
+aliases:
+  color-brand-iot-primary-darkest: "#002D7A"
+  color-brand-iot-primary-dark: "#0247BE"
+  color-brand-iot-primary-medium: "#005DFF"
+  color-brand-iot-primary-light: "#3881FF"
+  color-brand-iot-primary-lightest: "#77A9FF"
 
-  color-highlight-darkest: '#A53403'
-  color-highlight-dark: '#DA5D02'
-  color-highlight-medium: '#FF6D00'
-  color-highlight-light: '#FFB17B'
-  color-highlight-lightest: '#FFE6D4'
+  color-brand-goto-primary-darkest: "#A53403"
+  color-brand-goto-primary-dark: "#DA5D02"
+  color-brand-goto-primary-medium: "#FF6D00"
+  color-brand-goto-primary-light: "#FFB17B"
+  color-brand-goto-primary-lightest: "#FFE6D4"
 
-  color-neutral-darkest: '#000000'
-  color-neutral-dark: '#747880'
-  color-neutral-medium: '#D6D7D1'
-  color-neutral-light: '#EFF0F1'
-  color-neutral-lightest: '#FFFFFF'
+  color-neutral-darkest: "#000000"
+  color-neutral-dark: "#747880"
+  color-neutral-medium: "#D6D7D1"
+  color-neutral-light: "#EFF0F1"
+  color-neutral-lightest: "#FFFFFF"

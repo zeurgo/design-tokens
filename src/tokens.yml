@@ -1,2 +1,4 @@
 imports:
   - ./color/index.yml
+global:
+  category: tokens

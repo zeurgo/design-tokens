@@ -1,11 +1,12 @@
 {
   "name": "design-tokens",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "scripts": {
-    "build": "theo ./src/tokens.yml --transform web --format scss"
+    "web": "theo src/tokens.yml --transform web --format scss --dest dist"
   },
   "dependencies": {
+    "optimist": "^0.6.1",
     "theo": "^8.1.5"
   }
 }
