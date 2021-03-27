@@ -1,0 +1,37 @@
+global:
+  type: width
+  category: category-width
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: border-width-none
+    value: '{!border-width-none}'
+    meta:
+      friendlyName: Border Width None
+    category: border-style
+
+  - name: border-width-hairline
+    value: '{!border-width-hairline}'
+    meta:
+      friendlyName: Border Width Hairline
+    category: border-style
+
+  - name: border-width-thin
+    value: '{!border-width-thin}'
+    meta:
+      friendlyName: Border Width Thin
+    category: border-style
+
+  - name: border-width-thick
+    value: '{!border-width-thick}'
+    meta:
+      friendlyName: Border Width Thick
+    category: border-style
+
+  - name: border-width-heavy
+    value: '{!border-width-heavy}'
+    meta:
+      friendlyName: Border Width Heavy
+    category: border-style

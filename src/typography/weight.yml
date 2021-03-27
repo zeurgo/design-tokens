@@ -1,0 +1,31 @@
+global:
+  type: weight
+  category: category-weight
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: font-weight-bold
+    value: '{!font-weight-bold}'
+    meta:
+      friendlyName: Font Size Bold
+    category: font-weight
+
+  - name: font-weight-medium
+    value: '{!font-weight-medium}'
+    meta:
+      friendlyName: Font Size Medium
+    category: font-weight
+
+  - name: font-weight-regular
+    value: '{!font-weight-regular}'
+    meta:
+      friendlyName: Font Size Regular
+    category: font-weight
+
+  - name: font-weight-light
+    value: '{!font-weight-light}'
+    meta:
+      friendlyName: Font Size Light
+    category: font-weight

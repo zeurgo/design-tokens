@@ -1,4 +1,6 @@
 imports:
   - ./color/index.yml
+  - ./border/index.yml
+  - ./typography/index.yml
 global:
   category: tokens

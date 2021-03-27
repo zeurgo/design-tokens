@@ -1,0 +1,73 @@
+global:
+  type: size
+  category: category-size
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: font-size-xxxs
+    value: '{!font-size-xxxs}'
+    meta:
+      friendlyName: Font Size XXXS
+    category: font-size
+
+  - name: font-size-xxs
+    value: '{!font-size-xxs}'
+    meta:
+      friendlyName: Font Size XXS
+    category: font-size
+
+  - name: font-size-xs
+    value: '{!font-size-xs}'
+    meta:
+      friendlyName: Font Size XS
+    category: font-size
+
+  - name: font-size-sm
+    value: '{!font-size-sm}'
+    meta:
+      friendlyName: Font Size SM
+    category: font-size
+
+  - name: font-size-md
+    value: '{!font-size-md}'
+    meta:
+      friendlyName: Font Size MD
+    category: font-size
+
+  - name: font-size-lg
+    value: '{!font-size-lg}'
+    meta:
+      friendlyName: Font Size LG
+    category: font-size
+
+  - name: font-size-xl
+    value: '{!font-size-xl}'
+    meta:
+      friendlyName: Font Size XL
+    category: font-size
+
+  - name: font-size-xxl
+    value: '{!font-size-xxl}'
+    meta:
+      friendlyName: Font Size XXL
+    category: font-size
+
+  - name: font-size-xxxl
+    value: '{!font-size-xxxl}'
+    meta:
+      friendlyName: Font Size XXXL
+    category: font-size
+
+  - name: font-size-display
+    value: '{!font-size-display}'
+    meta:
+      friendlyName: Font Size Display
+    category: font-size
+
+  - name: font-size-giant
+    value: '{!font-size-giant}'
+    meta:
+      friendlyName: Font Size Giant
+    category: font-size

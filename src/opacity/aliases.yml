@@ -1,0 +1,10 @@
+global:
+  type: aliases
+  category: pallete-opacity
+
+aliases:
+  opacity-level-semiopaque: 0.80
+  opacity-level-intense: 0.64
+  opacity-level-medium: 0.32
+  opacity-level-light: 0.16
+  opacity-level-semitransparent: 0.08

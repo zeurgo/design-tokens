@@ -1,2 +1,4 @@
 imports:
+  - ./brand-primary.yml
+  - ./highlight.yml
   - ./neutral.yml

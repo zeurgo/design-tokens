@@ -1,0 +1,31 @@
+global:
+  type: weight
+  category: category-weight
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: line-height-tight
+    value: '{!line-height-tight}'
+    meta:
+      friendlyName: Font Size Tight
+    category: line-height
+ 
+  - name: line-height-medium
+    value: '{!line-height-medium}'
+    meta:
+      friendlyName: Font Size Medium
+    category: line-height
+
+  - name: line-height-distant
+    value: '{!line-height-distant}'
+    meta:
+      friendlyName: Font Size Distant
+    category: line-height
+
+  - name: line-height-superdistant
+    value: '{!line-height-superdistant}'
+    meta:
+      friendlyName: Font Size Superdistant
+    category: line-height

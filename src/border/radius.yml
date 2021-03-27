@@ -1,0 +1,43 @@
+global:
+  type: radius
+  category: category-radius
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: border-radius-none
+    value: '{!border-radius-none}'
+    meta:
+      friendlyName: Border Radius None
+    category: radius
+
+  - name: border-radius-sm
+    value: '{!border-radius-sm}'
+    meta:
+      friendlyName: Border Radius SM
+    category: radius
+
+  - name: border-radius-md
+    value: '{!border-radius-md}'
+    meta:
+      friendlyName: Border Radius MD
+    category: radius
+
+  - name: border-radius-lg
+    value: '{!border-radius-lg}'
+    meta:
+      friendlyName: Border Radius LG
+    category: radius
+
+  - name: border-radius-pill
+    value: '{!border-radius-pill}'
+    meta:
+      friendlyName: Border Radius Pill
+    category: radius
+
+  - name: border-radius-circular
+    value: '{!border-radius-circular}'
+    meta:
+      friendlyName: Border Radius Circular
+    category: radius
