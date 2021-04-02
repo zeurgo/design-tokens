@@ -1,6 +1,6 @@
 {
   "name": "vivares-design-tokens",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Tokens base architecture",
   "directories": {
     "dist": "dist"
