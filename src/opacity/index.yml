@@ -1,0 +1,37 @@
+global:
+  type: spacing
+  category: category-opacity
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: opacity-level-semiopaque
+    value: '{!opacity-level-semiopaque}'
+    meta:
+      friendlyName: Opacity Level Semi Opaque
+    category: background-color
+
+  - name: opacity-level-intense
+    value: '{!opacity-level-intense}'
+    meta:
+      friendlyName: Opacity Level Intense
+    category: background-color
+
+  - name: opacity-level-medium
+    value: '{!opacity-level-medium}'
+    meta:
+      friendlyName: Opacity Level Medium
+    category: background-color
+
+  - name: opacity-level-light
+    value: '{!opacity-level-light}'
+    meta:
+      friendlyName: Opacity Level Light
+    category: background-color
+
+  - name: opacity-level-semitransparent
+    value: '{!opacity-level-semitransparent}'
+    meta:
+      friendlyName: Opacity Level Semi Transparent
+    category: background-color

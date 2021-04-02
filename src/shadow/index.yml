@@ -1,0 +1,31 @@
+global:
+  type: spacing
+  category: category-shadow
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: shadow-level-1
+    value: '{!shadow-level-1}'
+    meta:
+      friendlyName: Shadow Level 1
+    category: box-shadow
+
+  - name: shadow-level-2
+    value: '{!shadow-level-2}'
+    meta:
+      friendlyName: Shadow Level 2
+    category: box-shadow
+
+  - name: shadow-level-3
+    value: '{!shadow-level-3}'
+    meta:
+      friendlyName: Shadow Level 3
+    category: box-shadow
+
+  - name: shadow-level-4
+    value: '{!shadow-level-4}'
+    meta:
+      friendlyName: Shadow Level 4
+    category: box-shadow

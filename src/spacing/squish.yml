@@ -1,0 +1,31 @@
+global:
+  type: spacing
+  category: category-spacing
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: spacing-squish-quarck
+    value: '{!spacing-squish-quarck}'
+    meta:
+      friendlyName: Spacing Squish Quarck
+    category: spacing
+
+  - name: spacing-squish-nano
+    value: '{!spacing-squish-nano}'
+    meta:
+      friendlyName: Spacing Squish Nano
+    category: spacing
+
+  - name: spacing-squish-xs
+    value: '{!spacing-squish-xs}'
+    meta:
+      friendlyName: Spacing Squish XS
+    category: spacing
+
+  - name: spacing-squish-sm
+    value: '{!spacing-squish-sm}'
+    meta:
+      friendlyName: Spacing Squish SM
+    category: spacing

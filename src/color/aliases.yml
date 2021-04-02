@@ -3,20 +3,26 @@ global:
   category: pallete-color
  
 aliases:
-  color-brand-primary-darkest: "#002D7A"
-  color-brand-primary-dark: "#0247BE"
-  color-brand-primary-medium: "#005DFF"
-  color-brand-primary-light: "#3881FF"
-  color-brand-primary-lightest: "#77A9FF"
+  color-brand-primary-darkest: "#010A66"
+  color-brand-primary-dark: "#1A26AC"
+  color-brand-primary-medium: "#4853D3"
+  color-brand-primary-light: "#6772F9"
+  color-brand-primary-lightest: "#9AA3FF"
 
-  color-highlight-darkest: "#A53403"
-  color-highlight-dark: "#DA5D02"
-  color-highlight-medium: "#FF6D00"
-  color-highlight-light: "#FFB17B"
-  color-highlight-lightest: "#FFE6D4"
+  color-brand-secondary-darkest: "#664000"
+  color-brand-secondary-dark: "#B36D00"
+  color-brand-secondary-medium: "#FC971F"
+  color-brand-secondary-light: "#FFBA4D"
+  color-brand-secondary-lightest: "#FFD999"
+
+  color-brand-tertiary-darkest: "#006666"
+  color-brand-tertiary-dark: "#009B96"
+  color-brand-tertiary-medium: "#04B2AD"
+  color-brand-tertiary-light: "#4DE8E2"
+  color-brand-tertiary-lightest: "#99FFFF"
 
   color-neutral-darkest: "#000000"
   color-neutral-dark: "#747880"
-  color-neutral-medium: "#D6D7D1"
+  color-neutral-medium: "#D6D7DA"
   color-neutral-light: "#EFF0F1"
   color-neutral-lightest: "#FFFFFF"

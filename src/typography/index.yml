@@ -1,5 +1,5 @@
 imports:
   - ./family.yml
-  - ./size.yml
   - ./line.yml
+  - ./size.yml
   - ./weight.yml

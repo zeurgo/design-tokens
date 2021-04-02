@@ -1,9 +1,9 @@
 global:
   type: aliases
   category: pallete-font
- 
+
 aliases:
-  font-family-01: "Poppins"
+  font-family-01: "Nunito"
   font-family-02: "Lato"
 
   line-height-tight: 100%
