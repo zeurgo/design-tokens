@@ -32,9 +32,9 @@ aliases:
   spacing-inset-xs: 16px
   spacing-inset-sm: 24px
   spacing-inset-md: 32px
-  spacing-inset-lg: 40px 
+  spacing-inset-lg: 40px
 
   spacing-squish-quarck: 4px 8px
   spacing-squish-nano: 8px 16px
   spacing-squish-xs: 16px 24px
-  spacing-squish-sm: 16px 32px 
+  spacing-squish-sm: 16px 32px
