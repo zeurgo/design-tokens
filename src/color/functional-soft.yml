@@ -1,0 +1,37 @@
+global:
+  type: color
+  category: category-color
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: color-functional-soft-darkest
+    value: '{!color-functional-soft-darkest}'
+    meta:
+      friendlyName: Color Functional Soft Darkest
+    category: background-color
+
+  - name: color-functional-soft-dark
+    value: '{!color-functional-soft-dark}'
+    meta:
+      friendlyName: Color Functional Soft Dark
+    category: background-color
+
+  - name: color-functional-soft-medium
+    value: '{!color-functional-soft-medium}'
+    meta:
+      friendlyName: Color Functional Soft Medium
+    category: background-color
+
+  - name: color-functional-soft-light
+    value: '{!color-functional-soft-light}'
+    meta:
+      friendlyName: Color Functional Soft Light
+    category: background-color
+
+  - name: color-functional-soft-lightest
+    value: '{!color-functional-soft-lightest}'
+    meta:
+      friendlyName: Color Functional Soft Lightest
+    category: background-color

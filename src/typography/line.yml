@@ -6,26 +6,26 @@ imports:
   - ./aliases.yml
 
 props:
-  - name: line-height-tight
-    value: '{!line-height-tight}'
+  - name: line-height-near
+    value: '{!line-height-near}'
     meta:
-      friendlyName: Font Size Tight
+      friendlyName: Line Height Near
     category: line-height
  
-  - name: line-height-medium
-    value: '{!line-height-medium}'
+  - name: line-height-compact
+    value: '{!line-height-compact}'
     meta:
-      friendlyName: Font Size Medium
+      friendlyName: Line Height Compact
     category: line-height
 
-  - name: line-height-distant
-    value: '{!line-height-distant}'
+  - name: line-height-far
+    value: '{!line-height-far}'
     meta:
-      friendlyName: Font Size Distant
+      friendlyName: Line Height Far
     category: line-height
 
-  - name: line-height-superdistant
-    value: '{!line-height-superdistant}'
+  - name: line-height-further
+    value: '{!line-height-further}'
     meta:
-      friendlyName: Font Size Superdistant
+      friendlyName: Line Height Further
     category: line-height

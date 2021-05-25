@@ -3,18 +3,23 @@ global:
   category: pallete-font
 
 aliases:
-  font-family-01: "Nunito"
-  font-family-02: "Lato"
+  font-family-brand: "Poppins"
+  font-family-base: "Roboto"
 
-  line-height-tight: 100%
-  line-height-medium: 120%
-  line-height-distant: 150%
-  line-height-superdistant: 200%
+  line-height-near: 100%
+  line-height-compact: 120% 
+  line-height-far: 148%  
+  line-height-further: 200%
 
+  font-weight-thin: 100
+  font-weight-extralight: 200
+  font-weight-light: 300
+  font-weight-regular: 400
+  font-weight-medium: 500
+  font-weight-semibold: 600
   font-weight-bold: 700
-  font-weight-medium: 600
-  font-weight-regular: 500
-  font-weight-light: 400
+  font-weight-extrabold: 800
+  font-weight-black: 900
 
   font-size-xxxs: 12px
   font-size-xxs: 14px
@@ -24,6 +29,6 @@ aliases:
   font-size-lg: 32px
   font-size-xl: 40px
   font-size-xxl: 48px
-  font-size-xxxl: 64px
-  font-size-display: 80px
-  font-size-giant: 96px
+  font-size-xxxl: 56px
+  font-size-display: 64px
+  font-size-giant: 80px

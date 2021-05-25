@@ -6,14 +6,14 @@ imports:
   - ./aliases.yml
 
 props:
-  - name: font-family-01
-    value: '{!font-family-01}'
+  - name: font-family-brand
+    value: '{!font-family-brand}'
     meta:
-      friendlyName: Font Family 01
+      friendlyName: Font Family Brand
     category: font
 
-  - name: font-family-02
-    value: '{!font-family-02}'
+  - name: font-family-base
+    value: '{!font-family-base}'
     meta:
-      friendlyName: Font Family 02
+      friendlyName: Font Family Base
     category: font

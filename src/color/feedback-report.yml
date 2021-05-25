@@ -1,0 +1,37 @@
+global:
+  type: color
+  category: category-color
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: color-feedback-report-darkest
+    value: '{!color-feedback-report-darkest}'
+    meta:
+      friendlyName: Color Feedback Report Darkest
+    category: background-color
+
+  - name: color-feedback-report-dark
+    value: '{!color-feedback-report-dark}'
+    meta:
+      friendlyName: Color Feedback Report Dark
+    category: background-color
+
+  - name: color-feedback-report-medium
+    value: '{!color-feedback-report-medium}'
+    meta:
+      friendlyName: Color Feedback Report Medium
+    category: background-color
+
+  - name: color-feedback-report-light
+    value: '{!color-feedback-report-light}'
+    meta:
+      friendlyName: Color Feedback Report Light
+    category: background-color
+
+  - name: color-feedback-report-lightest
+    value: '{!color-feedback-report-lightest}'
+    meta:
+      friendlyName: Color Feedback Report Lightest
+    category: background-color

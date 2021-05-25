@@ -6,16 +6,22 @@ imports:
   - ./aliases.yml
 
 props:
-  - name: font-weight-bold
-    value: '{!font-weight-bold}'
+  - name: font-weight-thin
+    value: '{!font-weight-thin}'
     meta:
-      friendlyName: Font Size Bold
+      friendlyName: Font Size Thin
     category: font-weight
 
-  - name: font-weight-medium
-    value: '{!font-weight-medium}'
+  - name: font-weight-extralight
+    value: '{!font-weight-extralight}'
     meta:
-      friendlyName: Font Size Medium
+      friendlyName: Font Size Extralight
+    category: font-weight
+
+  - name: font-weight-light
+    value: '{!font-weight-light}'
+    meta:
+      friendlyName: Font Size Light
     category: font-weight
 
   - name: font-weight-regular
@@ -24,8 +30,36 @@ props:
       friendlyName: Font Size Regular
     category: font-weight
 
-  - name: font-weight-light
-    value: '{!font-weight-light}'
+  - name: font-weight-medium
+    value: '{!font-weight-medium}'
     meta:
-      friendlyName: Font Size Light
+      friendlyName: Font Size Medium
     category: font-weight
+
+  - name: font-weight-semibold
+    value: '{!font-weight-semibold}'
+    meta:
+      friendlyName: Font Size Semibold
+    category: font-weight
+
+  - name: font-weight-bold
+    value: '{!font-weight-bold}'
+    meta:
+      friendlyName: Font Size Bold
+    category: font-weight
+
+  - name: font-weight-extrabold
+    value: '{!font-weight-extrabold}'
+    meta:
+      friendlyName: Font Size Extrabold
+    category: font-weight
+
+  - name: font-weight-black
+    value: '{!font-weight-black}'
+    meta:
+      friendlyName: Font Size Black
+    category: font-weight
+
+  
+
+  

@@ -1,0 +1,37 @@
+global:
+  type: color
+  category: category-color
+
+imports:
+  - ./aliases.yml
+
+props:
+  - name: color-functional-heavy-darkest
+    value: '{!color-functional-heavy-darkest}'
+    meta:
+      friendlyName: Color Functional Heavy Darkest
+    category: background-color
+
+  - name: color-functional-heavy-dark
+    value: '{!color-functional-heavy-dark}'
+    meta:
+      friendlyName: Color Functional Heavy Dark
+    category: background-color
+
+  - name: color-functional-heavy-medium
+    value: '{!color-functional-heavy-medium}'
+    meta:
+      friendlyName: Color Functional Heavy Medium
+    category: background-color
+
+  - name: color-functional-heavy-light
+    value: '{!color-functional-heavy-light}'
+    meta:
+      friendlyName: Color Functional Heavy Light
+    category: background-color
+
+  - name: color-functional-heavy-lightest
+    value: '{!color-functional-heavy-lightest}'
+    meta:
+      friendlyName: Color Functional Heavy Lightest
+    category: background-color

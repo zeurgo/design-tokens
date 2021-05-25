@@ -1,5 +1,10 @@
 imports:
   - ./brand-primary.yml
-  - ./brand-secondary.yml
-  - ./brand-tertiary.yml
-  - ./neutral.yml
+  - ./feedback-danger.yml
+  - ./feedback-report.yml
+  - ./feedback-success.yml
+  - ./feedback-warning.yml
+  - ./functional-heavy.yml
+  - ./functional-highlight.yml
+  - ./functional-soft.yml
+
