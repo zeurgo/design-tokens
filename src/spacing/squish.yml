@@ -18,6 +18,12 @@ props:
       friendlyName: Spacing Squish Nano
     category: spacing
 
+  - name: spacing-squish-xxs
+    value: '{!spacing-squish-xxs}'
+    meta:
+      friendlyName: Spacing Squish XXS
+    category: spacing
+
   - name: spacing-squish-xs
     value: '{!spacing-squish-xs}'
     meta:

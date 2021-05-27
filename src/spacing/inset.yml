@@ -16,6 +16,18 @@ props:
     value: '{!spacing-inset-nano}'
     meta:
       friendlyName: Spacing Inset Nano
+    category: 
+    
+  - name: spacing-inset-xxxs
+    value: '{!spacing-inset-xxxs}'
+    meta:
+      friendlyName: Spacing Inset XXXS
+    category: spacing
+
+  - name: spacing-inset-xxs
+    value: '{!spacing-inset-xxs}'
+    meta:
+      friendlyName: Spacing Inset XXS
     category: spacing
 
   - name: spacing-inset-xs
