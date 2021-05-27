@@ -29,6 +29,8 @@ aliases:
 
   spacing-inset-quarck: 4px
   spacing-inset-nano: 8px
+  spacing-inset-xxxs: 12px
+  spacing-inset-xxs: 14px
   spacing-inset-xs: 16px
   spacing-inset-sm: 24px
   spacing-inset-md: 32px
@@ -36,5 +38,6 @@ aliases:
 
   spacing-squish-quarck: 4px 8px
   spacing-squish-nano: 8px 16px
+  spacing-squish-xxs: 12px 24px
   spacing-squish-xs: 16px 24px
   spacing-squish-sm: 16px 32px
