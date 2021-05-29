@@ -1,6 +1,6 @@
 {
   "name": "vivares-design-tokens",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Tokens base architecture",
   "directories": {
     "dist": "dist"
@@ -14,7 +14,10 @@
     "theo": "^8.1.5"
   },
   "scripts": {
-    "web": "theo src/tokens.yml --transform web --format scss --dest dist"
+    "web": "theo src/tokens.yml --transform web --format scss --dest dist",
+    "web:styl": "theo src/tokens.yml --transform web --format styl --dest dist",
+    "web:module": "theo src/tokens.yml --transform web --format module.js --dest dist",
+    "web:html": "theo src/tokens.yml --transform web --format html --dest dist"
   },
   "keywords": [
     "tokens",
