@@ -6,6 +6,10 @@ aliases:
   font-family-brand: "Poppins"
   font-family-base: "Roboto"
 
+  line-height-xxxs: 18px
+  line-height-xxs: 20px
+  line-height-xs: 22px
+  line-height-sm: 24px
   line-height-near: 100%
   line-height-compact: 120% 
   line-height-far: 148%  

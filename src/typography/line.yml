@@ -6,6 +6,30 @@ imports:
   - ./aliases.yml
 
 props:
+  - name: line-height-xxxs
+    value: '{!line-height-xxxs}'
+    meta:
+      friendlyName: Line Height XXXS
+    category: line-height
+
+  - name: line-height-xxs
+    value: '{!line-height-xxs}'
+    meta:
+      friendlyName: Line Height XXS
+    category: line-height
+
+  - name: line-height-xs
+    value: '{!line-height-xs}'
+    meta:
+      friendlyName: Line Height XS
+    category: line-height
+
+  - name: line-height-sm
+    value: '{!line-height-sm}'
+    meta:
+      friendlyName: Line Height SM
+    category: line-height
+
   - name: line-height-near
     value: '{!line-height-near}'
     meta:
